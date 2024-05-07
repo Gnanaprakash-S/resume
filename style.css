@@ -128,9 +128,4 @@ li{
 .personal{
     margin-left: 27px;
 }
-@media (max-width: 480px) {
-    .mainContainer{
-        max-width: 100%;
-       
-    }
-}
+
